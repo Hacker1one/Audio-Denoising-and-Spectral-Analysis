@@ -1,4 +1,4 @@
-DSP Project: Audio Signal Denoising and Spectral Analysis
+DSP Project: Audio Signal Denoising and Spectral Analysis using Digital Signal Processing Techniques
 
 Overview
 
